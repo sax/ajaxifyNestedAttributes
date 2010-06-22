@@ -1,0 +1,9 @@
+h1. Ajaxify Nested Attributes jQuery Plugin
+
+Ruby on Rails provides a really nice mechanism for managing nested models in a form. Adding and deleting nested models can be annoying, until you get the hang of it. Even then, the code that one uses to add and remove these items from the DOM is often not very portable.
+
+This jQuery plugin attempts to provide a generic means with which to add/remove nested attributes to/from a form in Ruby on Rails.
+
+h1. Usage
+
+Coming soon...
